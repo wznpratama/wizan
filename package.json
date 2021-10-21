@@ -1,0 +1,16 @@
+{
+  "name": "npx-wizan",
+  "version": "1.0.0",
+  "description": "Wizan's bussiness card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wizan",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^4.1.2"
+  }
+}
